@@ -6,8 +6,8 @@ District Summary Table:
 
 School Summary Table: 
 
-  
-  
+  <img width="1204" alt="Screenshot 2023-03-30 at 3 31 33 PM" src="https://user-images.githubusercontent.com/125215083/228957475-a157d990-cef7-4cdd-ac38-18625d95d831.png">
+
 Highest-Performing Schools by Percentage of Overall Passing Last 5 Rows:
   
 Lowest-Performing Schools by Percentage of Overall Passing Last 5 Rows: 
