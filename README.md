@@ -26,6 +26,8 @@ Reading Scores by Grade Table:
 
 Scores by School Spending Table: 
 
+  <img width="1165" alt="Screenshot 2023-03-30 at 3 40 22 PM" src="https://user-images.githubusercontent.com/125215083/228959217-9f5e1cb9-50e7-4c76-94cd-8f580e2f55d9.png">
+
 Scores by School Size Table: 
 
 Scores by School Type Table: 
