@@ -17,7 +17,9 @@ Lowest-Performing Schools by Percentage of Overall Passing Last 5 Rows:
   <img width="1210" alt="Screenshot 2023-03-30 at 3 34 46 PM" src="https://user-images.githubusercontent.com/125215083/228958122-9ddb4210-02bd-400f-950c-d8e166fd72ff.png">
 
 Math Scores by Grade Table: 
-  
+
+  <img width="579" alt="Screenshot 2023-03-30 at 3 37 11 PM" src="https://user-images.githubusercontent.com/125215083/228958558-c82fe245-1f7b-44ac-8a1e-e4f06735260e.png">
+
 Reading Scores by Grade Table: 
 
 Scores by School Spending Table: 
