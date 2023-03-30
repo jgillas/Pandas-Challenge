@@ -30,7 +30,11 @@ Scores by School Spending Table:
 
 Scores by School Size Table: 
 
+  <img width="904" alt="Screenshot 2023-03-30 at 3 46 16 PM" src="https://user-images.githubusercontent.com/125215083/228960651-3da516d2-55b7-4506-b31a-27fb5f2611b3.png">
+
 Scores by School Type Table: 
+
+  <img width="808" alt="Screenshot 2023-03-30 at 3 47 01 PM" src="https://user-images.githubusercontent.com/125215083/228960800-a575a2eb-b5e2-4e1a-8218-c54630c44d34.png">
 
 
   
