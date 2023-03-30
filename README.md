@@ -2,7 +2,7 @@
 
 District Summary Table: 
                                                                                                                                 
-  <img width="1212" alt="Screenshot 2023-03-30 at 3 29 33 PM" src="https://user-images.githubusercontent.com/125215083/228957082-4d3723aa-6842-4626-88fc-8148c2017b6b.png">
+<img width="1075" alt="Screenshot 2023-03-30 at 3 56 56 PM" src="https://user-images.githubusercontent.com/125215083/228962814-82c88b08-f50b-4d6d-a89c-2382008c1a9f.png">
 
 School Summary Table: 
 
